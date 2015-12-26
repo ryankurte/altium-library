@@ -19,7 +19,7 @@ LibrarySearchPath=https://github.com/ryankurte/altium-library/trunk/symbols;
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=misc$
+LastFocusedTable=capacitors$
 SVNRepositoryURL=https://github.com/ryankurte/altium-library
 FileRepositoryIsRelative=0
 [Table1]
@@ -73,6 +73,9 @@ TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [FieldMap1]
 Options=FieldName=capacitors$.Part Number|TableNameOnly=capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
