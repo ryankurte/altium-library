@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\projects\altium
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -30,52 +30,37 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=122|Description0=118|Manufacturer0=93|Package0=65|Value0=52|Library Path0=136|Library Ref0=77|Footprint Path0=138|Footprint Ref0=92|F100=41|F110=41
+BrowserOrder_Visible=Part Number0=131|Description0=127|Library Path0=104|Library Ref0=77|Footprint Path0=138|Footprint Ref0=92|Manufacturer0=93|Package0=65|Value0=52|F100=41|F110=41
 [Table2]
 SchemaName=
 TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table3]
 SchemaName=
 TableName=inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table4]
 SchemaName=
 TableName=integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table5]
 SchemaName=
 TableName=misc$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41
 [Table6]
 SchemaName=
 TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [FieldMap1]
 Options=FieldName=capacitors$.Part Number|TableNameOnly=capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
