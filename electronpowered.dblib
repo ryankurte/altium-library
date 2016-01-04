@@ -12,14 +12,14 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=C:\projects\altium-library\electronpowered.xls
+LibraryDatabasePath=electronpowered.xls
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=resistors$
+LastFocusedTable=connectors$
 [Table1]
 SchemaName=
 TableName=capacitors$
@@ -34,43 +34,31 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
+BrowserOrder_Visible=Part Number0=115|Description0=211|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table3]
 SchemaName=
 TableName=inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table4]
 SchemaName=
 TableName=integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [Table5]
 SchemaName=
 TableName=misc$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41
 [Table6]
 SchemaName=
 TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=82|Manufacturer0=93|Package0=65|Value0=52|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|F100=41|F110=41
 [FieldMap1]
 Options=FieldName=capacitors$.Part Number|TableNameOnly=capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
