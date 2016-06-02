@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=integrated$
+LastFocusedTable=connectors$
 [Table1]
 SchemaName=
 TableName=capacitors$
@@ -32,6 +32,9 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=115|Description0=211|Library Path0=158|Library Ref0=80|Footprint Path0=214|Footprint Ref0=123|Manufacturer0=93|Package0=65|Value0=52|F100=41|F110=41
 [Table3]
 SchemaName=
 TableName=inductors$
@@ -44,9 +47,6 @@ TableName=integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=145|Description0=195|Library Path0=146|Library Ref0=94|Footprint Path0=143|Footprint Ref0=92|Manufacturer0=93|Package0=65|Value0=52|F100=41|F110=41
 [Table5]
 SchemaName=
 TableName=misc$
