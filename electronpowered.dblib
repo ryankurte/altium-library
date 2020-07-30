@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=\\vmware-host\Shared Folders\projects\altium-library\electronpowered.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\projects\altium-library\electronpowered.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=resistors$
+LastFocusedTable=capacitors$
 [Table1]
 SchemaName=
 TableName=capacitors$
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=160|Description0=179|Library Path0=104|Library Ref0=77|Footprint Path0=151|Footprint Ref0=92|Manufacturer0=93|Package0=65|Value0=52|F100=41|F110=41
+BrowserOrder_Visible=Part Number0=222|Description0=230|Library Path0=123|Library Ref0=90|Footprint Path0=181|Footprint Ref0=111|Manufacturer0=108|Package0=75|Value0=59
 [Table2]
 SchemaName=
 TableName=connectors$
@@ -59,9 +59,6 @@ TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=101|Library Path0=101|Library Ref0=77|Footprint Path0=144|Footprint Ref0=92|Manufacturer0=93|Package0=65|Value0=52|F100=41|F110=41
 [FieldMap1]
 Options=FieldName=capacitors$.Part Number|TableNameOnly=capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
