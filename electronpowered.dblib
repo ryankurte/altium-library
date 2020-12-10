@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\projects\altiu
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=capacitors$
+LastFocusedTable=resistors$
 [Table1]
 SchemaName=
 TableName=capacitors$
@@ -41,12 +41,18 @@ TableName=inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=164|Description0=321|Library Path0=121|Library Ref0=90|Footprint Path0=181|Footprint Ref0=105|Manufacturer0=108|Package0=75|Value0=59|F100=48|F110=48
 [Table4]
 SchemaName=
 TableName=integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=186|Description0=303|Library Path0=273|Library Ref0=181|Footprint Path0=301|Footprint Ref0=205|Manufacturer0=143|Package0=192|Value0=93|F100=48|F110=48
 [Table5]
 SchemaName=
 TableName=misc$
@@ -59,6 +65,9 @@ TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=134|Description0=128|Library Path0=120|Library Ref0=90|Footprint Path0=173|Footprint Ref0=105|Manufacturer0=108|Package0=75|Value0=59|F100=48|F110=48
 [FieldMap1]
 Options=FieldName=capacitors$.Part Number|TableNameOnly=capacitors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
