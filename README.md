@@ -1,16 +1,18 @@
 # Altium Library
 
-My altium footprints and schematic symbols.  
+My altium footprints and schematic symbols as an excel-backed database library.
 
-Originally part of a monolithic library, currently migrating to an excel backed database library to simplify working with similar parts.  
+**While most components have been verified and used, no guarantees are made to accuracy, please check footprints / symbols / pinouts against manufacturer datasheets prior to use (and raise an issue if you find any inconsistencies)**
 
 If you would like to add a component or suggest an alteration, open an issue or a pull request.  
 
 ## Installing
 
-Add altium-library.dblib to your project or to the environment using DXP->Preferences->Data Management->Installed Libraries
+Add altium-library.dblib to your project or to the environment using `DXP->Preferences->Data Management->Installed` Libraries
 
 ## Adding components
+
+Note that due to limitations of excel you will need to open the excel database file prior to opening altium to ensure excel has write access.
 
 ### If the component does not exist
 
@@ -19,7 +21,7 @@ Add altium-library.dblib to your project or to the environment using DXP->Prefer
 3. Add a line to `electronpowered.xls` in the applicable sheet
 4. Right click on the library and refresh in altium.
 
-### If the component already exists
+### If the symbol / footprint already exist
 
 For resistors values or other like components:
 
